@@ -1,0 +1,9 @@
+## Ignore default
+/node_modules
+/.next
+
+## Arquivo de variavel
+.env
+
+## Build
+/build
