@@ -2,8 +2,6 @@ import axios from 'axios';
 import Link from 'next/link';
 
 export default function Content({valores}) {
-  console.log(valores);
-
   return (
     <>
       <h3> Batman Content </h3>
